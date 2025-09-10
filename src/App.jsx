@@ -4,7 +4,7 @@ import Services from "./componentes/services/Services"
 import Contact from "./componentes/contact/Contact"
 const App = () => {
   return (
-    <div className=''>
+    <div className='container'>
       <Hero/>
       <Services/>
       <Portifolio/>
